@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Learner"
+title: 
 author_profile: false
 redirect_from: 
   - /about/
