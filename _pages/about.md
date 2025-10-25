@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-QUESTIONS
+Questions
 ======
 1. What is machine learning.
 2. What are the different fields related to machine learning.
