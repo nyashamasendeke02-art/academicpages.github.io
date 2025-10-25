@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning For Learners"
+title: "The Learner"
 author_profile: true
 redirect_from: 
   - /about/
