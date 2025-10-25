@@ -8,9 +8,11 @@ redirect_from:
 ---
 KEY QUESTIONS
 1. What is machine learning.
-2. What is are the different tribes of machine learning.
-3. What are the different fields related to machine learning.
-4. What is the bigger picture.
+2. What are the different fields related to machine learning.
+3. What are the different paradigms of machine learning.
+4.What is are the different tribes of machine learning.
+5.What is the bigger picture.
+   
 
 Brief Overview Of ML Paradigms
 ======
