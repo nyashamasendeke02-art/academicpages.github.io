@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-KEY QUESTIONS
+QUESTIONS
+======
 1. What is machine learning.
 2. What are the different fields related to machine learning.
 3. What are the different paradigms of machine learning.
