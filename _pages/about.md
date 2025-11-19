@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Learning Machine Learning through projects and mahematical inituition.
 ======
 1. What is machine learning.
 2. What are the different fields related to machine learning.
@@ -14,7 +14,6 @@ redirect_from:
 4. What is are the different tribes of machine learning.
 5. What is the bigger picture.
    
-
 What is machine learning
 ======
 The ML paradigms inolve the different methods used in training data algorithms.
@@ -39,4 +38,5 @@ Connectionists
 What is the bigger picture
 ------
 Machine learning is the other branch of AI .
+
 
