@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: 
+title: Learning Machine Learning through projects and mahematical inituition.
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-Learning Machine Learning through projects and mahematical inituition.
+
 ======
 1. What is machine learning.
 2. What are the different fields related to machine learning.
