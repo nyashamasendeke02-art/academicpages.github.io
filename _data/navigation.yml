@@ -10,12 +10,12 @@
 main:
 
   - title: "Supervised Learning"
-    url: /Supervised Learning/    
+    url: _pages/Supervised Learning.html   
 
   - title: "Usupervised Learning"
-    url: /Unsupervised Learning/    
+    url: _pages/Unsupervised Learning.html    
     
   - title: "Reinforcement Learning"
-    url: /Reinforcement Learning/
+    url: _pages/Reinforcement Learning.html
         
 
