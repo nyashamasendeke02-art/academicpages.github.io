@@ -10,12 +10,12 @@
 main:
 
   - title: "Supervised Learning"
-    url: /talks/    
+    url: /Supervised Learning/    
 
   - title: "Usupervised Learning"
-    url: /teaching/    
+    url: /Unsupervised Learning/    
     
   - title: "Reinforcement Learning"
-    url: /portfolio/
+    url: /Reinforcement Learning/
         
 
