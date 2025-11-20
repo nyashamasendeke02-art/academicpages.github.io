@@ -41,16 +41,32 @@ etc.
 What are the different paradigms of machine learning
 ------
 Supervised learning
+
+
 Unsupervsed learning
+
+
 Semi Supervised Learning
+
+
 Reinforcement Learning
+
+
 
 What are the different tribes of machine learning
 =====
 Bayesian learning
+
+
 Evolutionaries
+
+
 Analogizers
+
+
 Symbolists
+
+
 Connectionists
 etc.
 
