@@ -21,18 +21,18 @@ The Machine Learning is the use of different techniques and methods for computer
 
 What are the fields related to machine learning
 ------
-Neuroscince.\
-Physics.\
-Computer Science.\
-Mathematics\
-Statistics \
+Neuroscince.  
+Physics.  
+Computer Science.  
+Mathematics  
+Statistics   
 etc.
 
 What are the different paradigms of machine learning
 ------
-Supervised learning\
-Unsupervsed learning\
-Semi Supervised Learning.\
+Supervised learning  
+Unsupervsed learning  
+Semi Supervised Learning.  
 Reinforcement Learning.
 
 
