@@ -15,12 +15,12 @@ redirect_from:
 5. What is the bigger picture.
    
 What is machine learning
-======
+------
 The Machine Learning is the use of different techniques and methods for computers to learn and adapt using data.
 
 
 What are the fields related to machine learning
-======
+------
 Neuroscince.
 
 
@@ -54,7 +54,7 @@ Reinforcement Learning
 
 
 What are the different tribes of machine learning
-=====
+------
 Bayesian learning
 
 
