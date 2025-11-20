@@ -26,14 +26,14 @@ Physics.\
 Computer Science.\
 Mathematics\
 Statistics \
-etc.\
+etc.
 
 What are the different paradigms of machine learning
 ------
 Supervised learning\
 Unsupervsed learning\
 Semi Supervised Learning.\
-Reinforcement Learning.\
+Reinforcement Learning.
 
 
 
@@ -44,7 +44,7 @@ Evolutionaries\
 Analogizers\
 Symbolists\
 Connectionists
-etc.\
+etc.
 
 What is the bigger picture
 ------
